@@ -1,0 +1,1 @@
+Monitoring the temperature of a sauna and send alerts to a Discord channel at temperature thresholds. It utilizes an Arduino Uno with a DS18B20 temperature sensor and an ESP8266 module to send the alerts to Discord..
